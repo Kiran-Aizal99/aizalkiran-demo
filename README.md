@@ -1,4 +1,4 @@
 # aizalkiran-demo
 This is my first Git Repository.
 <br>
-Author - Aizal kiran
+Author - Aizal (Apna College)
